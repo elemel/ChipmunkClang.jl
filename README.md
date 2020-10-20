@@ -1,2 +1,3 @@
-# Chipmunk.jl
-Chipmunk for Julia
+# ChipmunkClang.jl
+
+Chipmunk for Julia using Clang
